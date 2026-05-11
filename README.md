@@ -29,13 +29,15 @@
 ## Результат работы
 ![Пример вывода sysinfo.sh](images/sysinfo-demo.png)
 
+[Код скрипта](01_scripts/sysinfo.sh)
+
 ## Резервное копирование папок
 - Не знаю что написать
 
 ## Результат работы
 ![Пример вывода backup.sh](images/backup-demo.png)
 
-[Код скрипта](01_scripts/sysinfo.sh)
+[Код скрипта](02_backup/backup.sh)
 
 ## 📫 Контакты
 - GitHub: https://github.com/kiv101
