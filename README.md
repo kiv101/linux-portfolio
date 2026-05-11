@@ -29,6 +29,9 @@
 
 [Код скрипта](01_scripts/sysinfo.sh)
 
+## Планируемые проекты
+01_scripts  02_automation  03_monitoring  04_cron  05_configs
+
 ## 📫 Контакты
 - GitHub: https://github.com/kiv101
 - Telegram: @kiv01
