@@ -22,6 +22,6 @@
 [Код скрипта](01_scripts/sysinfo.sh)
 
 ## 📫 Контакты
-- GitHub: [ссылка на твой профиль]
-- Telegram: @твой_ник
-- Почта: твоя@почта.ru
+- GitHub: https://github.com/kiv101
+- Telegram: @kiv01
+- Почта: gezun.en@yandex.ru
